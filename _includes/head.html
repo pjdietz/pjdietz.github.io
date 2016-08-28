@@ -8,9 +8,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }}
     {% endif %}
   </title>
 
@@ -24,8 +24,12 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif" />
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144x144.png">
-                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}public/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}public/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}public/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="{{ site.baseurl }}public/manifest.json">
+  <link rel="mask-icon" href="{{ site.baseurl }}public/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
