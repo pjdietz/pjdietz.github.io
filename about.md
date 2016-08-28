@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! I'm PJ. I like to build stuff.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I spend most of my time in PHP-land, but I also do a bit of Node.js and Android and iOS app development.
 
-There are currently two themes built on Poole:
+I'm a senior developer at [American Reading Company](https://www.americanreading.com) where I work on [Bookshelf](https://www.arcbookshelf.com), our e-reader platform, and [SchoolPace](https://www.schoolpace.com), our student performance management system.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My pet project is [WellRESTed](http://www.wellrested.org), a PHP library for building RESTful APIs and websites based on [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Aside from being a developer, I'm also a husband, cat wrangler, dog daddy, skeptic, science enthusiast, jazz aficionado, WoW healer, and freelance astronaut.
 
-## Setup
+Carl Sagan wrote in *[The Demon-Haunted World](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469)*, “Not explaining science seems to me perverse. When you’re in love, you want to tell the world.” This is the way I see programming, and I’ve put this site together to have a place to share tips and code snippets, plugins and projects.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Happy coding!
